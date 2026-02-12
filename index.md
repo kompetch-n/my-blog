@@ -11,7 +11,7 @@
 <script src="https://utteranc.es/client.js"
         repo="kompetch-n/kompetch-n.github.io"
         issue-term="pathname"
-        theme="github-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
